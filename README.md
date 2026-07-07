@@ -66,7 +66,8 @@ All available under `/screenshots`:
 
 ## Folder Layout
 retail-sales-eda-analysis/
-│
+
+
 ├── EDA_Retail_Sales.ipynb     → full notebook: code, charts, commentary
 
 ├── retail_sales_dataset.csv   → cleaned data
