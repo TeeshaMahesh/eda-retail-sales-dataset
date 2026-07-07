@@ -68,7 +68,11 @@ All available under `/screenshots`:
 retail-sales-eda-analysis/
 │
 ├── EDA_Retail_Sales.ipynb     → full notebook: code, charts, commentary
+
 ├── retail_sales_dataset.csv   → cleaned data
+
 ├── EDA_Report.pdf             → write-up of the full analysis
+
 ├── screenshots/                → exported chart images
+
 └── README.md                   → you're reading it
