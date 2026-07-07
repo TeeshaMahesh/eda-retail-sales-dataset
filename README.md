@@ -77,3 +77,23 @@ retail-sales-eda-analysis/
 ├── screenshots/                → exported chart images
 
 └── README.md                   → you're reading it
+
+
+---
+
+## Running It Yourself
+```bash
+git clone https://github.com/your-username/retail-sales-eda-analysis.git
+pip install pandas numpy matplotlib seaborn
+```
+Then just open `EDA_Retail_Sales.ipynb` in Jupyter or Colab and run through the cells top to bottom.
+
+---
+
+## Author
+Teesha kumari— Data Science Intern
+
+---
+
+## License
+Shared for educational/internship purposes only.
